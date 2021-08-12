@@ -1,0 +1,24 @@
+
+-----------------------------------------------------------------------
+
+---------- Terminologia basica ----------
+
+fork : Permite copiar un repositorio a nuestra cuenta.
+
+branch: Esta permite crear una copia de la branch principal y nos deja hacer pruebas y testeos sin tener que arruinar el codigo.
+
+stage: Se crean nuevos cambios a partir de nuestras observaciones y luego hacer commit.
+
+commit: El codgio anterior es el qe se va a cambiar y actualizar en el main branch.
+
+merge: finalmente, merge cambiará el codigo del main (master) a partir de los cambios realizados en el branch.
+
+-----------------------------------------------------------------------
+
+---------- Git Commands ----------
+
+$ git config --global user.email ""
+
+$ git config --global user.name ""
+
+-----------------------------------------------------------------------
